@@ -1,1 +1,1 @@
-the book about the sec
+synchronize in my ubuntu
